@@ -5,4 +5,10 @@ PART-A
 
 PART-B
 
+<img width="839" height="180" alt="Screenshot 2025-10-07 210203" src="https://github.com/user-attachments/assets/90669208-e70f-4d19-80a3-1823239b18b9" />
 
+
+PART-C
+
+
+<img width="840" height="445" alt="Screenshot 2025-10-07 210241" src="https://github.com/user-attachments/assets/aa2df23f-5584-4c8d-b6e3-00f274bae4d4" />
